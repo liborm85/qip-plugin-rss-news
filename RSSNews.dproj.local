@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.03.27 16:06:13.928.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\About.pas=</Transaction>
+    <Transaction>2009.03.27 16:06:13.928.dfm,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\About.dfm=</Transaction>
+    <Transaction>2009.03.27 16:06:13.941.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\AccountSetting.pas=</Transaction>
+    <Transaction>2009.03.27 16:06:13.941.dfm,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\AccountSetting.dfm=</Transaction>
+    <Transaction>2009.03.27 16:06:13.952.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\AddFeed.pas=</Transaction>
+    <Transaction>2009.03.27 16:06:13.952.dfm,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\AddFeed.dfm=</Transaction>
+    <Transaction>2009.03.27 16:06:13.961.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\ContactDetails.pas=</Transaction>
+    <Transaction>2009.03.27 16:06:13.961.dfm,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\ContactDetails.dfm=</Transaction>
+    <Transaction>2009.03.27 16:06:13.968.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\CreateFeed.pas=</Transaction>
+    <Transaction>2009.03.27 16:06:13.968.dfm,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\CreateFeed.dfm=</Transaction>
+    <Transaction>2009.03.27 16:06:13.979.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\EditContact.pas=</Transaction>
+    <Transaction>2009.03.27 16:06:13.979.dfm,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\EditContact.dfm=</Transaction>
+    <Transaction>2009.03.27 16:06:13.988.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\ImportExport.pas=</Transaction>
+    <Transaction>2009.03.27 16:06:13.988.dfm,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\ImportExport.dfm=</Transaction>
+    <Transaction>2009.03.27 16:06:13.997.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\ListFeeds.pas=</Transaction>
+    <Transaction>2009.03.27 16:06:13.997.dfm,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\ListFeeds.dfm=</Transaction>
+    <Transaction>2009.03.27 16:06:14.004.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\Options.pas=</Transaction>
+    <Transaction>2009.03.27 16:06:14.004.dfm,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\Options.dfm=</Transaction>
+    <Transaction>2009.03.27 16:06:14.052.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\Progress.pas=</Transaction>
+    <Transaction>2009.03.27 16:06:14.052.dfm,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\Progress.dfm=</Transaction>
+    <Transaction>2009.03.27 16:06:14.064.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\Window.pas=</Transaction>
+    <Transaction>2009.03.27 16:06:14.064.dfm,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\Window.dfm=</Transaction>
+    <Transaction>2009.03.27 16:21:17.420.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\ListFeeds.pas=</Transaction>
+    <Transaction>2009.03.27 16:21:17.420.dfm,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\ListFeeds.dfm=</Transaction>
+    <Transaction>2009.03.27 16:21:28.368.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\CreateFeed.pas=</Transaction>
+    <Transaction>2009.03.27 16:21:28.368.dfm,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\CreateFeed.dfm=</Transaction>
+    <Transaction>2009.03.27 16:43:08.825.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\General\uINI.pas=</Transaction>
+    <Transaction>2009.05.25 17:32:25.682.pas,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\Progress.pas=</Transaction>
+    <Transaction>2009.05.25 17:32:25.682.dfm,E:\Libor\Programy\Delphi\RSS News (Unicode)\Forms\Progress.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>

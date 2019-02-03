@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2005.03.12 14:38:40.699.pas,F:\Prog\Delphi 2005 Components\GraphicEx\GraphicStringsDE.pas=</Transaction>
+    <Transaction>2005.03.12 14:38:46.938.pas,F:\Prog\Delphi 2005 Components\GraphicEx\GraphicStringsFR.pas=</Transaction>
+    <Transaction>2005.03.12 14:38:49.311.pas,F:\Prog\Delphi 2005 Components\GraphicEx\GraphicStringsRU.pas=</Transaction>
+    <Transaction>2008.09.16 09:07:43.314.dproj,F:\Prog\Delphi 2009 Components\GraphicEx\dclGraphicEx.dproj=F:\Prog\Delphi 2009 Components\GraphicEx\dclGraphicEx120.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
